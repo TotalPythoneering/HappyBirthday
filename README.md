@@ -1,4 +1,4 @@
-# HappyBirthday
+# Happy Birthday
 
 Ideas to Celebrate any Birth Daye!
 
@@ -6,6 +6,11 @@ Ideas to Celebrate any Birth Daye!
 ### 🧨FireWorks01.py
 
 Yea, I whish I could take credit for [writing this one](https://youtube.com/shorts/7nU8yxwHbhc) in under 5 seconds ... by that would be 'fibbing ...
+
+----
+### 🧨FireWorks02.py
+
+A good review 'ore how to check what's new on any source code [update](https://youtube.com/shorts/JQe5SyJSOWY).
 
 ----
 
