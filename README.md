@@ -16,7 +16,7 @@ A good review 'ore how to check what's new on any source code [update](https://y
 
 ### 🧨FireWorks03.py
 
-The A.I alliance continues when Google's A.I. recommended an under-anticipated "finale" for the [3rd project update](https://www.youtube.com/shorts/_0zFJAuJQS0)).
+The A.I alliance continues when Google's A.I. recommended an under-anticipated "finale" for the [3rd project update](https://www.youtube.com/shorts/_0zFJAuJQS0).
 
 ----
 
