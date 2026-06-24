@@ -28,6 +28,12 @@ Adding a much-appreciated perspective, Google's A.I quickly added a skyline effe
 
 ----
 
+### 🧨FireWorks05.py
+
+Here's how Google's A.I used it's own framework ... yet most professionals would have use an array of .draw()ables for [update #5](https://youtube.com/shorts/uTuT6xTaMLY). 😏
+
+----
+
 More to come -[stay tuned](https://www.youtube.com/@TotalPythoneering)!
 
 Thanks, Google A.I!
