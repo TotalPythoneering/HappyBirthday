@@ -2,6 +2,8 @@
 
 Ideas to Celebrate any Birth Daye!
 
+![FireWorks05](https://github.com/TotalPythoneering/HappyBirthday/blob/main/FireWorks05.gif)
+
 ----
 ### 🧨FireWorks01.py
 
