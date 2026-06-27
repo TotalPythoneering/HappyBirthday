@@ -34,6 +34,12 @@ Here's how Google's A.I used it's own framework ... yet most professionals would
 
 ----
 
+### 🧨FireWorks06.py
+
+With the help of Google A.I. what was to be a simple celebration of America and our July 4th Fireworks tradition is becoming an interactive D.I.Y game with [update #6](https://youtube.com/shorts/6leXknlsRGo?feature=share). 🎇
+
+----
+
 More to come -[stay tuned](https://www.youtube.com/@TotalPythoneering)!
 
 Thanks, Google A.I!
