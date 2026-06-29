@@ -42,7 +42,7 @@ With the help of Google A.I. what was to be a simple celebration of America and 
 
 ### 🧨FireWorks07.py
 
-There is an EASILY 'hackable way to enjoy the new "fountain" dispaly within [update #7](https://youtube.com/shorts/STAMebqqbJ0?feature=share). 🤓
+There is an EASILY 'hackable way to enjoy the new "fountain" display within [update #7](https://youtube.com/shorts/STAMebqqbJ0?feature=share). 🤓
 
 ----
 
