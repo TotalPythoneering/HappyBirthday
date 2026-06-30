@@ -1,6 +1,6 @@
 # MISSION: Chat together a firework display.
 # STATUS: Research
-# VERSION: 8.0.0
+# VERSION: 0.0.0
 # NOTES: A.I. Generated - but not working.
 # DATE: 2026-05-19 05:17:28
 # FILE: FireWorks08.py
