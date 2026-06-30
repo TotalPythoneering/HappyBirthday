@@ -46,6 +46,15 @@ There is an EASILY 'hackable way to enjoy the new "fountain" display within [upd
 
 ----
 
+### 🧨FireWorks08.py
+
+Review a few simple debugging techniques for when A.I gets it wrong as it did with [update #8](https://youtu.be/tAOH5tS30Uk). 
+
+Will you test the fix? 🤓
+
+----
+
+
 
 
 More to come - [stay tuned](https://www.youtube.com/@TotalPythoneering)!
