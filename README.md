@@ -54,12 +54,17 @@ Will you test the fix? 🤓
 
 ----
 
+### 🧨FireWorks09.py & FireWorks10.py
 
+Update #9 was a simple "revert to the previous" request -- and the A.I rolled-back the chat to version #7 well. 
 
+Interesting delta but not as interesting as the new message-display in [the video review](https://www.youtube.com/shorts/A4_8i-4zGIY).
+
+Can you display your own message? 🤓
+ 
+----
 
 More to come - [stay tuned](https://www.youtube.com/@TotalPythoneering)!
-
-Thanks, Google A.I!
 
 ----
 🧨p.s. We're tracking the updates in [TheFireWorks.py](https://github.com/TotalPythoneering/HappyBirthday/blob/main/TheFireWorks.py)
