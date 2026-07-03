@@ -64,6 +64,12 @@ Can you display your own message? 🤓
  
 ----
 
+### 🧨FireWorks11.py, FireWorks12.py and FireWorks13.py
+
+Acceptance testing wraps-up the feature set rather nicely - just in time for the 4th of July, 250th. 🎇
+
+----
+
 More to come - [stay tuned](https://www.youtube.com/@TotalPythoneering)!
 
 ----
